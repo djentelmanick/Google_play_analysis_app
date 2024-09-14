@@ -35,5 +35,5 @@
 ## Использование
 
 ```bash
-    python game.py
+    python scripts/main.py
 ```
